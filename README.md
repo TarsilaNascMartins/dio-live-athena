@@ -1,4 +1,7 @@
 # dio-live-athena
+![3lKxthygrf8GBAE4drq6UmoqVR90LuQ6Y11GP3r6](https://user-images.githubusercontent.com/99733390/204058529-7cdea4a4-25f9-47c2-b84c-0a51d5b294c3.png)
+
+
 Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 
 ### Serviços utilizados nessa atividade prática
