@@ -1,3 +1,1 @@
-select city, population
-from "population"."population"
-where city='Foz do Iguaçu';
+SELECT city, population FROM "dio_live_athena" WHERE city='Foz do Iguaçu';
