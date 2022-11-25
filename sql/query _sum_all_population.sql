@@ -1,3 +1,1 @@
-select
-	sum(population)
-from "population"."population";
+SELECT SUM(population) FROM "dio_live_athena"
